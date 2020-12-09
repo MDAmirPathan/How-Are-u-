@@ -5,6 +5,7 @@ void main()
 int a; 
  cout<<"How Are u"<<endl; 
  cin>>a;
- cout<<"Your ans was:- "<<a;
+ cout<<"Your ans was:- "<<a<<endl;
+ cout<<"thank You";
 getch();
 }
