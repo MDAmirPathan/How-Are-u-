@@ -6,6 +6,6 @@ int a;
  cout<<"How Are u"<<endl; 
  cin>>a;
  cout<<"Your ans was:- "<<a<<endl;
- cout<<"thank you";
+ cout<<"thank You";
 getch();
 }
