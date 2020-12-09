@@ -2,7 +2,7 @@
 #include<iostream.h>
 void main()
 {
- int a; 
+int a; 
  cout<<"How Are u"<<endl; 
  cin>>a;
  cout<<"Your ans was:- ";
